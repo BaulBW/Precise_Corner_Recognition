@@ -1,4 +1,4 @@
-// precise corner recognition with uncertainty smaller than px
+// precise corner recognition with uncertainty smaller than 10 px
 // Recognize corners as the intersections of two perpendicular lines
 
 #include "opencv2/highgui.hpp"
