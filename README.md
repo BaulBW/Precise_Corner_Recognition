@@ -1,3 +1,5 @@
-# Course project from robot.czxy.com
+# Precise corner recognition
 
-ICP_monkey.cpp is the demo code for iterative closest point.
+Precise corner recognition with uncertainty smaller than 10 px. Corners are recognized as the intersections of two perpendicular lines.
+
+Check out .png images in CornerRecognition folder.
